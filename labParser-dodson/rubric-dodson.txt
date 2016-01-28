@@ -1,0 +1,18 @@
+Points       Item
+----------   --------------------------------------------------------------
+_13__ / 13   Documentation:
+             All source code files (.h & .cpp) include file name, author, description etc.
+             Functions and variables
+             + All non-trival variables are commented
+             + All functions preceded by brief comments
+             + Comments included before major portions of code
+             + Functions should be no longer than 1 page
+_10__ / 10   Appropriate methods
+_25__ / 25   Correct output (matches the format of the example & demonstrates correct execution)
+_____ /      Compiles and runs in Visual Studio AND on ranger
+_2___ /  2   Completed rubric (estimates for each line, including hours spent)
+             
+_50__ / 50   Total
+
+
+__2.37__  Approximate number of hours spent
