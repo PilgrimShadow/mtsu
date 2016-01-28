@@ -1,0 +1,105 @@
+O	232
+S
+P	297
+O	95
+S
+O	297
+S
+S
+O	49
+S
+P	297
+O	297
+S
+O	132
+S
+O	95
+S
+O	95
+D	MGR8_HUMAN	49	gtgtatccctcagtactatgcctgctcagtgcacgcctcgcgccgccggttttagtttggcgtttgttgtggtgacgaaatatgacgacgccccgggacctgcggtggcgcccggtcaccttgcgaccgtgcccattcacccaatctag	149	17
+S
+P	49
+O	297
+O	49
+O	232
+S
+O	57
+S
+O	11
+D	O00197_HUMAN	32	ctccgggtcatggtgttgtgctag	24	9
+D	MGR8_HUMAN	49	gtgtatccctcagtactatgcctgctcagtgcacgcctcgcgccgccggttttagtttggcgtttgttgtggtgacgaaatatgacgacgccccgggacctgcggtggcgcccggtcaccttgcgaccgtgcccattcacccaatctag	149	17
+S
+P	228
+O	197
+O	32
+O	95
+S
+O	228
+O	49
+O	249
+D	O00197_HUMAN	32	ctccgggtcatggtgttgtgctag	24	9
+S
+P	295
+O	295
+S
+O	297
+O	249
+O	28
+S
+O	32
+S
+O	128
+O	71
+D	P3C2A_HUMAN	46	tctcgctttttatgcaggaatgtgaagtacaccgaccgggcagctttagtcgaagacccagacctagtttgcacgaatcccaccttttggagtctaccccggttttgggttattga	116	11
+D	EAA5_HUMAN	95	aacgccagcacatgaccttgttgcatcgttatggactatgctaa	44	11
+S
+P	197
+O	57
+O	249
+O	132
+O	46
+O	95
+O	228
+O	197
+S
+O	157
+D	O00197_HUMAN	32	ctccgggtcatggtgttgtgctag	24	9
+D	EAA5_HUMAN	95	aacgccagcacatgaccttgttgcatcgttatggactatgctaa	44	11
+D	P3C2A_HUMAN	46	tctcgctttttatgcaggaatgtgaagtacaccgaccgggcagctttagtcgaagacccagacctagtttgcacgaatcccaccttttggagtctaccccggttttgggttattga	116	11
+S
+P	157
+O	157
+O	149
+S
+O	228
+O	297
+O	46
+O	32
+O	95
+S
+O	32
+O	132
+D	DPYL2_BOVIN	57	aatagcgcctaagtgggccccccgctatgggtttcatggatcggatcgtactgtcagacagcgaggccctctatagtagaaatctgcttatatga	95	26
+D	HS90A_PIG	11	acgaatgaggttagaccacgggtgcctattcccagtcgcgaagcccactattaaaaggactaccgagcattttagcggtttttag	85	4
+S
+P	195
+O	249
+S
+O	195
+S
+O	228
+O	57
+S
+O	246
+S
+O	11
+O	57
+O	297
+O	232
+P	271
+D	CISY_EMENI	97	ccgcaggccaagatgattgcaatttgtgtatgttgtgctgtcacggtacggacgcaaggatgtgtgtccgcccagaggatgacaaaatgcttcgggatgttcccaagatcggctaataatccgactagtacatcatga	138	12
+D	DPYL2_BOVIN	57	aatagcgcctaagtgggccccccgctatgggtttcatggatcggatcgtactgtcagacagcgaggccctctatagtagaaatctgcttatatga	95	26
+D	P3C2A_HUMAN	46	tctcgctttttatgcaggaatgtgaagtacaccgaccgggcagctttagtcgaagacccagacctagtttgcacgaatcccaccttttggagtctaccccggttttgggttattga	116	11
+D	PK3CD_HUMAN	28	ttggtctaatatgacacaccatgcatctatacgaagcaaggtga	44	20
+S
+P	232
