@@ -22,7 +22,7 @@ DNAList::~DNAList() {
 
   // For each node in the list, delete the data that it references then
   // delete the node itself.
-  while (node_ptr != NULL) {
+  while (node_ptr != nullptr) {
     delete node_ptr->dna;
     tmp = node_ptr->next;
     delete node_ptr;

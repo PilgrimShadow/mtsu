@@ -14,7 +14,7 @@ class DNAList {
 
 private:
 
-  // Struct that will be form the nodes of the linked list.
+  // Struct that will form the nodes of the linked list.
   struct DNANode {
     DNANode *next;
     DNA*     dna;
@@ -31,6 +31,7 @@ public:
   // Default constructor
   DNAList();
 
+  // Destructor
   ~DNAList();
 
   // Add a new sequence to the list
