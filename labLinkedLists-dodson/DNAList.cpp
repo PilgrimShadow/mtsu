@@ -59,6 +59,7 @@ DNA* DNAList::find(int id) const {
     if (node_ptr->dna->getId() == id) {
       return node_ptr->dna;
     }
+
     node_ptr = node_ptr->next;
   }
 
